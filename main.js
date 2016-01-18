@@ -1,0 +1,1 @@
+var userName = prompt('WELCOME, what is your name?');
